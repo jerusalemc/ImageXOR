@@ -1,2 +1,3 @@
 # ImageXOR
-Do the Image XOR operation
+Fork Font Process code from gdshen
+Do the FontImage XOR operation
