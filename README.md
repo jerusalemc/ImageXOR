@@ -1,6 +1,6 @@
 # ImageXOR
 ## Fork Font Process code from gdshen
-> python 3.6 is needed [pyenv](https://github.com/yyuu/pyenv)
+> python 3.6 is needed ([pyenv](https://github.com/yyuu/pyenv))
 
 use `python *.py -h` to get help
 
