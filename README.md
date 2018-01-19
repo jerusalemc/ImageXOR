@@ -8,5 +8,3 @@ use `python *.py -h` to get help
 ```
 pillow
 ```
-
-## Do the FontImage XOR operation
